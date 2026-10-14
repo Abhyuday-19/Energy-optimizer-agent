@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "category": "AC",
+    "tip": "AC ka temperature 24-26\u00b0C rakhein, har 1\u00b0C kam karne se 6-8% zyada bijli khti hai."
+  },
+  {
+    "id": 2,
+    "category": "AC",
+    "tip": "AC ke saath ceiling fan chalayein, isse aap temperature 2-3 degree zyada rakh sakte hain aur comfort same rahega."
+  },
+  {
+    "id": 3,
+    "category": "AC",
+    "tip": "5-star rated inverter AC, 3-star fixed-speed AC se 20-30% kam bijli kharch karta hai."
+  },
+  {
+    "id": 4,
+    "category": "AC",
+    "tip": "AC filter har 2-3 hafte mein clean karein, dirty filter se compressor zyada mehnat karta hai aur bijli zyada lagti hai."
+  },
+  {
+    "id": 5,
+    "category": "AC",
+    "tip": "AC chalane se pehle room ke curtains/blinds band kar dein dopahar mein, direct sunlight se room garam hota hai."
+  },
+  {
+    "id": 6,
+    "category": "AC",
+    "tip": "Sleep mode use karein raat ko, ye automatically temperature thoda badha deta hai jab aap so jaate hain."
+  },
+  {
+    "id": 7,
+    "category": "AC",
+    "tip": "AC ko bar-bar on-off na karein, isse compressor pe extra load padta hai jo zyada bijli kharch karta hai."
+  },
+  {
+    "id": 8,
+    "category": "Refrigerator",
+    "tip": "Fridge ko deewar se kam se kam 4-6 inch door rakhein taaki heat properly dissipate ho sake."
+  },
+  {
+    "id": 9,
+    "category": "Refrigerator",
+    "tip": "Fridge ka door bar-bar na kholein aur zyada der tak khula na rakhein, andar ka temperature maintain karne mein extra bijli lagti hai."
+  },
+  {
+    "id": 10,
+    "category": "Refrigerator",
+    "tip": "Garam khana fridge mein rakhne se pehle room temperature tak thanda hone dein."
+  },
+  {
+    "id": 11,
+    "category": "Refrigerator",
+    "tip": "Fridge ki temperature setting 4\u00b0C (fridge) aur -18\u00b0C (freezer) se zyada low na rakhein, zaroorat se zyada thanda karna bijli waste karta hai."
+  },
+  {
+    "id": 12,
+    "category": "Washing Machine",
+    "tip": "Full load mein hi washing machine chalayein, half load mein bhi utni hi bijli lagti hai."
+  },
+  {
+    "id": 13,
+    "category": "Washing Machine",
+    "tip": "Cold water wash cycle use karein jab possible ho, pani garam karna sabse zyada bijli kharch karta hai washing machine mein."
+  },
+  {
+    "id": 14,
+    "category": "Geyser",
+    "tip": "Geyser ko zaroorat se 15-20 min pehle hi on karein, continuously on rakhne se bahut bijli waste hoti hai."
+  },
+  {
+    "id": 15,
+    "category": "Geyser",
+    "tip": "Geyser ka temperature 50-55\u00b0C rakhein, isse zyada garam karna extra bijli lagti hai bina extra benefit ke."
+  },
+  {
+    "id": 16,
+    "category": "Geyser",
+    "tip": "Instant geyser (chhoti capacity) storage geyser se kam bijli kharch karta hai agar usage kam hai to."
+  },
+  {
+    "id": 17,
+    "category": "Lighting",
+    "tip": "LED bulbs use karein, CFL se 50% aur incandescent se 80% kam bijli kharch karte hain same brightness ke liye."
+  },
+  {
+    "id": 18,
+    "category": "Lighting",
+    "tip": "Din mein natural light use karein, khidkiyan khuli rakhein jab tak possible ho."
+  },
+  {
+    "id": 19,
+    "category": "Lighting",
+    "tip": "Jis room mein koi na ho wahan ki lights band kar dein, chhoti aadat bade savings deti hai."
+  },
+  {
+    "id": 20,
+    "category": "General",
+    "tip": "TV, set-top box, charger jaise devices standby mode mein bhi bijli kharch karte hain, poora switch off karein."
+  },
+  {
+    "id": 21,
+    "category": "General",
+    "tip": "Smart power strip use karein jisse ek click mein saare standby devices band ho jayein."
+  },
+  {
+    "id": 22,
+    "category": "General",
+    "tip": "5-star BEE rated appliances kharidein, shuru mein thoda mehenge hote hain par 2-3 saal mein bijli bill se recover ho jaata hai."
+  },
+  {
+    "id": 23,
+    "category": "General",
+    "tip": "Appliances ki regular servicing karayein, purane/dirty appliances zyada bijli kharch karte hain."
+  },
+  {
+    "id": 24,
+    "category": "General",
+    "tip": "Solar water heater install karne se geyser ka 60-70% load khatam ho sakta hai, especially North India mein."
+  },
+  {
+    "id": 25,
+    "category": "Kitchen",
+    "tip": "Induction cooktop gas se bijli mein zyada efficient hota hai agar flat-bottom bartan use karein."
+  },
+  {
+    "id": 26,
+    "category": "Kitchen",
+    "tip": "Microwave, oven se kam bijli aur kam time leta hai chhoti quantity garam karne mein."
+  },
+  {
+    "id": 27,
+    "category": "Kitchen",
+    "tip": "Mixer grinder continuously 2-3 min se zyada na chalayein, motor garam hoke zyada current khenchta hai."
+  },
+  {
+    "id": 28,
+    "category": "Billing",
+    "tip": "Electricity bill slab-based hota hai \u2014 agar aap next slab ke close hain, thoda sa usage kam karke aap poore bill mein bade % savings pa sakte hain."
+  },
+  {
+    "id": 29,
+    "category": "Billing",
+    "tip": "Peak hours (sham 6-10 baje) mein heavy appliances (washing machine, iron) avoid karein, kuch states mein time-of-day pricing hoti hai."
+  },
+  {
+    "id": 30,
+    "category": "Billing",
+    "tip": "Monthly meter reading note karte rahein taaki aapko pata chale kis mahine consumption achanak badha."
+  },
+  {
+    "id": 31,
+    "category": "Seasonal-Summer",
+    "tip": "Garmi mein cooler, AC se 70-80% kam bijli kharch karta hai agar humidity kam ho to."
+  },
+  {
+    "id": 32,
+    "category": "Seasonal-Summer",
+    "tip": "Terrace/roof pe halka paint ya white sheet se ghar thanda rehta hai, AC ka load kam hota hai."
+  },
+  {
+    "id": 33,
+    "category": "Seasonal-Summer",
+    "tip": "Exhaust fan subah-shaam use karein garam hawa bahar nikalne ke liye, AC kam chalana padega."
+  },
+  {
+    "id": 34,
+    "category": "Seasonal-Winter",
+    "tip": "Geyser ka usage winter mein sabse zyada badhta hai, time-based usage (sirf nahane se pehle) savings deta hai."
+  },
+  {
+    "id": 35,
+    "category": "Seasonal-Winter",
+    "tip": "Room heater ki jagah agar possible ho to layered clothing use karein, heater bahut zyada bijli kharch karta hai (1500-2500W)."
+  },
+  {
+    "id": 36,
+    "category": "Seasonal-Festival",
+    "tip": "Diwali/festival lights LED string lights use karein, traditional bulbs se 80% kam bijli kharch karte hain."
+  },
+  {
+    "id": 37,
+    "category": "Seasonal-Festival",
+    "tip": "Festival decoration lights ke liye timer laga dein, raat 11-12 baje ke baad automatically band ho jayein."
+  },
+  {
+    "id": 38,
+    "category": "Water Pump",
+    "tip": "Water pump ko overhead tank full hote hi band karein, automatic water level sensor laga sakte hain."
+  },
+  {
+    "id": 39,
+    "category": "Water Pump",
+    "tip": "Pump ki pipeline mein leakage check karein, leakage se pump zyada der chalana padta hai."
+  },
+  {
+    "id": 40,
+    "category": "Solar",
+    "tip": "Rooftop solar panel lagwane se grid se bijli consumption 40-90% tak kam ho sakta hai, government subsidy bhi milti hai."
+  },
+  {
+    "id": 41,
+    "category": "Solar",
+    "tip": "Net metering connection lein agar solar panel lagate hain, extra bijli grid ko bech sakte hain."
+  },
+  {
+    "id": 42,
+    "category": "Behavioral",
+    "tip": "Family mein sabko bijli bill dikhayein aur ek simple goal set karein (jaise '10% kam karna is mahine'), awareness se bhi savings hoti hai."
+  },
+  {
+    "id": 43,
+    "category": "Behavioral",
+    "tip": "Appliance use karne ka ek schedule banayein especially high-wattage appliances ke liye taaki overlap na ho."
+  },
+  {
+    "id": 44,
+    "category": "Behavioral",
+    "tip": "Bijli bill ko sirf paisa nahi, carbon footprint ke roop mein bhi dekhein \u2014 kam usage environment ke liye bhi acha hai."
+  },
+  {
+    "id": 45,
+    "category": "High-Load",
+    "tip": "Geyser, AC, aur iron ek saath kabhi na chalayein agar connection load limited hai, isse MCB trip bhi ho sakta hai aur peak load bhi badhta hai."
+  },
+  {
+    "id": 46,
+    "category": "High-Load",
+    "tip": "Iron karte waqt saare kapde ek saath rakhein, baar-baar heat-up karna (on-off) zyada bijli kharch karta hai."
+  },
+  {
+    "id": 47,
+    "category": "High-Load",
+    "tip": "Induction cooktop ka use bade bartan ke liye karein, chhote bartan se heat zyada waste hoti hai."
+  },
+  {
+    "id": 48,
+    "category": "Monitoring",
+    "tip": "Smart plug ya energy monitor use karke pata karein kaunsa appliance sabse zyada bijli kharch kar raha hai."
+  },
+  {
+    "id": 49,
+    "category": "Monitoring",
+    "tip": "Monthly usage pattern track karein \u2014 achanak spike dikhe to kisi appliance mein fault ho sakta hai."
+  },
+  {
+    "id": 50,
+    "category": "Monitoring",
+    "tip": "BEE star rating label har appliance pe check karein kharidte waqt, zyada stars = kam running cost."
+  }
+]
